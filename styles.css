@@ -1,0 +1,103 @@
+div{
+  background-color: #cbf1f5;
+  padding-top: 100px;
+}
+body{
+  margin: 0;
+  font-family: Verdana, sans-serif;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  position: relative;
+  left: 630px;
+  margin-top: 0px;
+  font-family: 'Sacramento', cursive;
+}
+p{
+  position: relative;
+  left: 610px;
+}
+
+.top-cloud{
+  position: relative;
+  left: 100px;
+}
+.bottom-cloud{
+  position: relative;
+  left: 1100px;
+  bottom:350px;
+}
+.mountain{
+  position: relative;
+  left: 250px;
+}
+.virgo{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left:650px;
+}
+.welcome{
+  position: relative;
+  left:650px;
+}
+.Passion{
+  position: relative;
+  left:550px;
+}
+.myskills
+{
+  position: relative;
+  left:650px;
+}
+.owl
+{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left:650px;
+  bottom: 50px;
+}
+.ideation{
+  position: relative;
+  left:620px;
+}
+.idea{
+  position: relative;
+  left:420px;
+}
+.knowledge{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left:650px;
+  bottom: 50px;
+}
+.Innovative{
+  position: relative;
+  left:620px;
+}
+.Innovativetext{
+  position: relative;
+  left:460px;
+}
+.getintouch{
+  position: relative;
+  left:620px;
+}
+.touch{
+  position: relative;
+  left:470px;
+}
+.website{
+  position: relative;
+  left:445px;
+}
+.btn{
+  position: relative;
+  left:640px;
+}
+.footer-link{
+  position: relative;
+  left:600px;
+}
